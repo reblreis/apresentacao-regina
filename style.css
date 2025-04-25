@@ -1,0 +1,81 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #0044cc;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 36px;
+}
+
+header h2 {
+    margin: 5px 0;
+    font-size: 24px;
+}
+
+header p {
+    font-size: 16px;
+}
+
+header a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+section h3 {
+    color: #0044cc;
+    font-size: 28px;
+    margin-bottom: 15px;
+}
+
+section h4 {
+    font-size: 22px;
+    color: #333;
+}
+
+section ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+section ul li {
+    margin: 10px 0;
+    font-size: 16px;
+}
+
+section p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+section a {
+    color: #0044cc;
+    text-decoration: none;
+}
+
+section a:hover {
+    text-decoration: underline;
+}
+
+#perfil, #experiencia, #habilidades, #formacao, #certificacoes, #cursos, #idiomas {
+    margin-bottom: 20px;
+}
